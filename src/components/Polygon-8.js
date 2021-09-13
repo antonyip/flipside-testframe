@@ -99,6 +99,9 @@ function Polygon8()
         <TopNavBar></TopNavBar>
         <br /><br /><br /><br /><br />
         <body>
+        <h2> Introduction </h2>
+        <p> Basically, I saw that there was no co-relation between the addresses... Then I tried to start on the network graph... </p>
+        <h2> Network Graph </h2>  
         <p> Tried to do the network graph. Don't think this turned out very well. </p>
         <p> Spent way too much time on this bounty :( ...</p>
         <Graph
@@ -110,6 +113,8 @@ function Polygon8()
             onClickLink={onClickLink}
             onZoomChange={onZoomChange}
         />
+        <h2> Conclusion </h2>
+        <p> Whale will do what whales do the best. Putting money somewhere and people will flock to it. NFT's on Etherum are a prime example.</p>
         </body>
         </div>)
 }
