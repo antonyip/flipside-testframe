@@ -3,6 +3,7 @@ import './App.css';
 import Home from './components/Home.js'
 import Aave from './components/Aave.js'
 import Polygon from './components/Polygon.js'
+import Polygon8 from './components/Polygon-8'
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {
@@ -29,6 +30,7 @@ function App() {
           <Route path="/home" component={Home} />
           <Route path="/polygon" component={Polygon} />
           <Route path="/aave" component={Aave} />
+          <Route path="/polygon-8" component={Polygon8} />
       </Router>
     </div>
   );

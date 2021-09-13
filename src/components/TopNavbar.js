@@ -9,6 +9,7 @@ function TopNavBar(){
                 <Nav.Link href="/home">Home</Nav.Link>
                 <Nav.Link href="/polygon">Polygon</Nav.Link>
                 <Nav.Link href="/aave">Aave</Nav.Link>
+                <Nav.Link href="/polygon-8">Polygon-8</Nav.Link>
             </Nav>
           </Container>
         </Navbar>
